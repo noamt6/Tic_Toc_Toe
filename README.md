@@ -1,4 +1,4 @@
-# Tic-Tac-Toe (Python & Turtle GUI) 🎮
+# Tic-Tac-Toe (Python & Turtle GUI) 
 
 A modular Tic-Tac-Toe game built with Python, featuring a graphical user interface and strategic AI. This project demonstrates clean code principles, state management, and data persistence.
 
